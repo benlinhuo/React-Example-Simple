@@ -1,0 +1,1 @@
+{this._renderContent('#783E33', 'Red Tab', this.state.notifCount)}
